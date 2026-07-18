@@ -1,0 +1,12 @@
+{
+  "name": "tls-fingerprint",
+  "version": "1.0.0",
+  "description": "TLS Certificate Fingerprint API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
